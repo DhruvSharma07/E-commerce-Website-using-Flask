@@ -1,4 +1,4 @@
-# E-Learning-Website--using-Flask
+# E-Learning-Website-using-Flask
 
 **Integrating MySQL for Enhanced Data Management in the E-commerce Website Project with Flask**
 
