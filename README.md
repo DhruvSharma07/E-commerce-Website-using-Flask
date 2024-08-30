@@ -35,4 +35,4 @@ This project is a comprehensive e-learning platform built using PHP, HTML, CSS, 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/e-learning-website.git
+   git clone https://github.com/DhruvSharma07/E-learning-Website.git
